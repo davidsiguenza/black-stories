@@ -1,0 +1,6 @@
+{
+  "name": "Historias Negras AI",
+  "description": "Una aplicación para jugar a resolver misterios al estilo de Black Stories, con un narrador de IA que genera historias, imágenes y responde a tus preguntas.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
